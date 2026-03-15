@@ -95,9 +95,9 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rak28&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rak28&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak28&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak28&layout=compact&hide_border=true&hide=Jupyter%20Notebook,HTML,MATLAB&langs_count=8" alt="Top languages" />
 </p>
 
 ---
