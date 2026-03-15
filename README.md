@@ -33,6 +33,23 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 ---
 
+## CS544: Big Data Systems — UW-Madison (Fall 2025)
+
+8 projects covering the full modern data engineering stack:
+
+| Project | Topic | Key Technologies |
+|---|---|---|
+| [P1](https://github.com/Rak28/cs544-p1-docker-git-analyzer) | Dockerized Git Analyzer with LLM summarization | Docker · Shell · LLM |
+| [P2](https://github.com/Rak28/cs544-p2-grpc-containers) | Fault-tolerant multi-container gRPC + HTTP service | gRPC · Docker · Protobuf |
+| [P3](https://github.com/Rak28/cs544-p3-concurrent-word-count) | Multi-threaded word count + benchmarking | Python · Parquet · Apache Arrow |
+| [P4](https://github.com/Rak28/cs544-p4-sql-hdfs) | SQL → HDFS fault-tolerant data pipeline | HDFS · SQL · gRPC · PyArrow |
+| [P5](https://github.com/Rak28/cs544-p5-spark) | Spark + Hive analysis of competitive programming data | Apache Spark · Hive · PySpark |
+| [P6](https://github.com/Rak28/cs544-p6-cassandra-weather) | Cassandra weather data ingestion + availability tradeoffs | Cassandra · gRPC · NoSQL |
+| [P7](https://github.com/Rak28/cs544-p7-kafka-weather) | Kafka producer/consumer weather streaming pipeline | Kafka · Streaming · Python |
+| [P8](https://github.com/Rak28/cs544-p8-gcp-bigquery) | Google Cloud: GCS + Dataform + BigQuery analysis | GCP · BigQuery · Dataform · SQL |
+
+---
+
 ## Experience
 
 **Advanced App Engineering Analyst** @ Accenture · Sep 2023 – Aug 2025
@@ -72,6 +89,8 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
@@ -80,6 +99,7 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
