@@ -27,8 +27,9 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 | Project | Description | Stack |
 |---|---|---|
+| [⚡ transaction-feed](https://github.com/Rak28/transaction-feed) | Real-time Kafka-style transaction monitoring via WebSockets, 200+ concurrent users, sub-500ms latency | React · TypeScript · Node.js · WebSocket |
 | [💰 finance-dashboard](https://github.com/Rak28/finance-dashboard) | Full-stack expense tracker with Recharts visualizations and sub-200ms response times | React · TypeScript · Flask · PostgreSQL |
-| [⚡ transaction-feed](https://github.com/Rak28/transaction-feed) | Real-time Kafka-style transaction monitoring dashboard via WebSockets, 200+ concurrent users | React · TypeScript · Node.js · WebSocket |
+| [🌤️ weather-streaming](https://github.com/Rak28/weather-streaming) | Distributed Kafka pipeline — 10 msg/sec across 4 partitions, Protobuf serialization, exactly-once processing | Python · Kafka · gRPC · Docker |
 
 ---
 
@@ -73,6 +74,7 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
 
 **DevOps & Cloud**
 
