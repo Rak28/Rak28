@@ -1,4 +1,4 @@
-# Hi, I'm Rakshith Sriraman Krishnaraj 
+# Hi, I'm Rakshith Sriraman Krishnaraj 👋
 
 <p align="center">
   <b>MS Computer Science @ UW-Madison</b> · Ex-SDE @ Accenture · AI/RAG Engineer · Published Researcher
@@ -23,31 +23,27 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 ---
 
-## Experience
+## Featured Projects
 
-**Advanced App Engineering Analyst** @ [Accenture](https://www.accenture.com) · Sep 2023 – Aug 2025
-- Built a distributed RAG ingestion framework processing high-volume financial data with FastAPI, OpenAI, Milvus, PostgreSQL & PowerBI — reduced pipeline runtime **5 days → 24 hours** (80%) with 95% query accuracy
-- Led Azure DevOps CI/CD orchestration for end-to-end financial data workflows, saving **100+ analyst hours/month**
-
-**Data Engineering Intern** @ National Institute of Ocean Technology · Jul 2022 – Jun 2023
-- Engineered a Model Predictive Control algorithm for OTEC processes in MATLAB — reduced steady-state error by **25%** and improved transient response time by **18%**
-- Trained an LSTM model for disturbance rejection in OC-OTEC plant, improving system stability by **30%**
-
-**SDE Intern** @ Carjoz · Sep 2021 – Jan 2022
-- Built an Android app supporting **200+ daily records** and optimized Firebase cloud database for **50+ active users**
+| Project | Description | Stack |
+|---|---|---|
+| [💰 finance-dashboard](https://github.com/Rak28/finance-dashboard) | Full-stack expense tracker with Recharts visualizations and sub-200ms response times | React · TypeScript · Flask · PostgreSQL |
+| [⚡ transaction-feed](https://github.com/Rak28/transaction-feed) | Real-time Kafka-style transaction monitoring dashboard via WebSockets, 200+ concurrent users | React · TypeScript · Node.js · WebSocket |
 
 ---
 
-## Projects
+## Experience
 
-**Distributed Weather Streaming System** · Kafka · gRPC · Docker
-- Kafka-based real-time pipeline processing **10 msg/sec** across 4 partitions with Protobuf serialization and exactly-once processing with crash recovery
+**Advanced App Engineering Analyst** @ Accenture · Sep 2023 – Aug 2025
+- Built distributed RAG ingestion framework (FastAPI, OpenAI, Milvus, PostgreSQL) — reduced runtime **5 days → 24 hours** (80%) with 95% query accuracy
+- Led Azure DevOps CI/CD orchestration saving **100+ analyst hours/month**
 
-**Personal Finance Dashboard** · React · TypeScript · Flask · PostgreSQL · AWS
-- Full-stack expense tracker with dynamic querying of **1,000+ records**, interactive Recharts visualizations, sub-200ms response times
+**Data Engineering Intern** @ National Institute of Ocean Technology · Jul 2022 – Jun 2023
+- MPC algorithm for OTEC in MATLAB — reduced steady-state error by **25%**, improved transient response by **18%**
+- LSTM model for disturbance rejection improving system stability by **30%**
 
-**Real-Time Transaction Feed** · React · TypeScript · Kafka · Node.js
-- Real-time monitoring dashboard via WebSockets supporting **200+ concurrent users** with sub-500ms latency
+**SDE Intern** @ Carjoz · Sep 2021 – Jan 2022
+- Android app supporting **200+ daily records**, Firebase optimization for **50+ active users**
 
 ---
 
@@ -57,8 +53,8 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -69,7 +65,6 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Data & Distributed Systems**
 
@@ -137,19 +132,11 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ## Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/rakshith-s-k-95b550151/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/rakshith-s-k-95b550151/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?user=ErVb3bEAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" />
-  </a>
+  <a href="https://scholar.google.com/citations?user=ErVb3bEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:rakshith.rsk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:rakshith.rsk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/rak28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/rak28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
