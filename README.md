@@ -1,4 +1,4 @@
-# Hi, I'm Rakshith Sriraman Krishnaraj 👋
+# Hi, I'm Rakshith Sriraman Krishnaraj 
 
 <p align="center">
   <b>MS Computer Science @ UW-Madison</b> · Ex-SDE @ Accenture · AI/RAG Engineer · Published Researcher
