@@ -39,14 +39,14 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 | Project | Topic | Key Technologies |
 |---|---|---|
-| [P1](https://github.com/Rak28/cs544-p1-docker-git-analyzer) | Dockerized Git Analyzer with LLM summarization | Docker · Shell · LLM |
-| [P2](https://github.com/Rak28/cs544-p2-grpc-containers) | Fault-tolerant multi-container gRPC + HTTP service | gRPC · Docker · Protobuf |
-| [P3](https://github.com/Rak28/cs544-p3-concurrent-word-count) | Multi-threaded word count + benchmarking | Python · Parquet · Apache Arrow |
-| [P4](https://github.com/Rak28/cs544-p4-sql-hdfs) | SQL → HDFS fault-tolerant data pipeline | HDFS · SQL · gRPC · PyArrow |
-| [P5](https://github.com/Rak28/cs544-p5-spark) | Spark + Hive analysis of competitive programming data | Apache Spark · Hive · PySpark |
-| [P6](https://github.com/Rak28/cs544-p6-cassandra-weather) | Cassandra weather data ingestion + availability tradeoffs | Cassandra · gRPC · NoSQL |
-| [P7](https://github.com/Rak28/cs544-p7-kafka-weather) | Kafka producer/consumer weather streaming pipeline | Kafka · Streaming · Python |
-| [P8](https://github.com/Rak28/cs544-p8-gcp-bigquery) | Google Cloud: GCS + Dataform + BigQuery analysis | GCP · BigQuery · Dataform · SQL |
+| [P1 — Dockerized Git Analyzer](https://github.com/Rak28/cs544-p1-dockerized-git-analyzer) | Dockerized tool to clone, diff, and LLM-summarize Git branches | Docker · Shell · LLM |
+| [P2 — gRPC Multi-Container App](https://github.com/Rak28/cs544-p2-grpc-multi-container-app) | Fault-tolerant multi-container gRPC + HTTP service with caching | gRPC · Docker · Protobuf · Flask |
+| [P3 — Concurrent Word Count & Benchmarking](https://github.com/Rak28/cs544-p3-concurrent-word-count-benchmarking) | Multi-threaded word counter with format benchmarking | Python · Parquet · Apache Arrow · Concurrency |
+| [P4 — SQL & HDFS Pipeline](https://github.com/Rak28/cs544-p4-sql-hdfs-pipeline) | Fault-tolerant SQL → HDFS data pipeline via gRPC and WebHDFS | HDFS · SQL · gRPC · PyArrow · Docker |
+| [P5 — Spark & Hive Analysis](https://github.com/Rak28/cs544-p5-spark-hive-analysis) | Spark + Hive analysis of competitive programming dataset | Apache Spark · Hive · PySpark · Docker |
+| [P6 — Cassandra Weather Pipeline](https://github.com/Rak28/cs544-p6-cassandra-weather-pipeline) | gRPC weather data ingestion into Cassandra, consistency tradeoffs | Cassandra · gRPC · Protobuf · Docker |
+| [P7 — Kafka Weather Streaming](https://github.com/Rak28/cs544-p7-kafka-weather-streaming) | Kafka producer/consumer pipeline for weather station data | Kafka · Python · Streaming · Docker |
+| [P8 — GCP BigQuery Analysis](https://github.com/Rak28/cs544-p8-gcp-bigquery-analysis) | GCS + Dataform + BigQuery pipeline for Wisconsin schools dataset | GCP · BigQuery · Dataform · SQL |
 
 ---
 
