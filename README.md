@@ -12,13 +12,13 @@
 
 ## About me
 
-I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineering Analyst at Accenture, where I built production-grade RAG pipelines and AI systems for financial data at scale. My work sits at the intersection of **AI agents**, **distributed systems**, and **MLOps**.
+I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineering Analyst at Accenture, where I built production-grade RAG pipelines and multi-agent LLM systems for financial data at scale. My work sits at the intersection of **AI agents**, **distributed systems**, and **full-stack engineering**.
 
 - 🎓 MS Computer Science @ University of Wisconsin-Madison (2025–2027)
-- 💼 Ex-Accenture: built RAG pipelines cutting pipeline runtime from **5 days → 24 hours** (80% improvement)
-- 🔭 Currently working on distributed systems, foundation models, and real-time data pipelines
-- 🌱 Exploring LLM tooling, Kafka streaming, and full-stack AI apps
-- 📄 Published researcher — 3 papers, 8+ citations
+- 💼 Ex-Accenture: built RAG pipelines cutting runtime from **5 days → 24 hours** (80% improvement); architected a 7-agent LLM orchestration system across 3,000+ company profiles
+- 🔭 Currently exploring agentic systems, real-time data pipelines, and full-stack AI products
+- 🌱 Open to **Summer 2026 SWE / ML / Data internships**
+- 📄 Published researcher — 3 papers
 - 🌍 Exchange student — University of Tours, France (2021–2022)
 
 ---
@@ -27,6 +27,8 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 | Project | Description | Stack |
 |---|---|---|
+| [📍 qr-attribution-system](https://github.com/Rak28/qr-attribution-system) | Full-stack creator-marketing attribution platform — HMAC-signed QR tokens with replay protection, scan→redemption→repeat-visit funnels | React · TypeScript · Flutter · Node.js · PostgreSQL |
+| [🤝 creator-marketing-platform](https://github.com/Rak28/creator-marketing-platform) | End-to-end campaign + creator + application workflow with role-scoped JWT auth across web and mobile | React · TypeScript · Flutter · Node.js · PostgreSQL |
 | [⚡ transaction-feed](https://github.com/Rak28/transaction-feed) | Real-time Kafka-style transaction monitoring via WebSockets, 200+ concurrent users, sub-500ms latency | React · TypeScript · Node.js · WebSocket |
 | [💰 finance-dashboard](https://github.com/Rak28/finance-dashboard) | Full-stack expense tracker with Recharts visualizations and sub-200ms response times | React · TypeScript · Flask · PostgreSQL |
 | [🌤️ weather-streaming](https://github.com/Rak28/weather-streaming) | Distributed Kafka pipeline — 10 msg/sec across 4 partitions, Protobuf serialization, exactly-once processing | Python · Kafka · gRPC · Docker |
@@ -53,7 +55,8 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ## Experience
 
 **Advanced App Engineering Analyst** @ Accenture · Sep 2023 – Aug 2025
-- Built distributed RAG ingestion framework (FastAPI, OpenAI, Milvus, PostgreSQL) — reduced runtime **5 days → 24 hours** (80%) with 95% query accuracy
+- Built distributed RAG ingestion framework (FastAPI, OpenAI, Milvus, PostgreSQL) — reduced runtime **5 days → 24 hours** (80%) with 95% query accuracy and 500+ daily real-time queries
+- Architected a **7-agent LLM orchestration system** with intent classification, multi-intent query decomposition, and hybrid retrieval (Milvus + PostgreSQL) across 3,000+ company financial profiles
 - Led Azure DevOps CI/CD orchestration saving **100+ analyst hours/month**
 
 **Data Engineering Intern** @ National Institute of Ocean Technology · Jul 2022 – Jun 2023
@@ -73,6 +76,7 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
@@ -95,6 +99,16 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
 
+**Web & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -102,13 +116,6 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
@@ -134,11 +141,11 @@ I'm an MS CS student at UW-Madison (GPA: 4.0) and former Advanced App Engineerin
 
 ## Research highlights
 
-| Paper | Venue | Year | Citations |
-|---|---|---|---|
-| Decentralized Control Strategies with Predictive Disturbance Rejection for OC-OTEC Plant | Journal of Water Process Engineering | 2024 | 2 |
-| Multiple Hybrid AI Model-based Optimal Charging Profile of Li-ion Battery for SOH Enhancement | IEEE | 2023 | 4 |
-| Data-driven Model Development and Validation for Laboratory Scale OC-OTEC Plant | IEEE | 2022 | 2 |
+| Paper | Venue | Year |
+|---|---|---|
+| Decentralized Control Strategies with Predictive Disturbance Rejection for OC-OTEC Plant | Journal of Water Process Engineering | 2024 |
+| Multiple Hybrid AI Model-based Optimal Charging Profile of Li-ion Battery for SOH Enhancement | IEEE | 2023 |
+| Data-driven Model Development and Validation for Laboratory Scale OC-OTEC Plant | IEEE | 2022 |
 
 ---
 
